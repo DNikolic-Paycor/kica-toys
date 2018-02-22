@@ -1,0 +1,40 @@
+.slide1-text {
+  padding: 15px;
+  background-color: orange;
+  color: white;
+  height: auto;
+  margin-left: -40px;
+  margin-top: -30px;
+}
+
+.slide1-head {
+  text-align: center;
+  border-radius: 4px;
+  background-color: tomato;
+  color: white;
+  margin-bottom: -50px;
+  margin-top: 20px;
+  margin-left: 25px;
+  padding: 10px;
+  z-index: 1;
+}
+
+.slide2-head {
+  margin-bottom: -20px;
+  background-color: DodgerBlue;
+  color: white;
+  z-index: 1;
+}
+
+.slide2-text {
+  background-color: mediumSeaGreen;
+  color: white;
+  height: auto;
+  padding: 15px;
+  border: 2px dashed white;
+  border-radius: 4px;
+  margin-right: -30px;
+  margin-left: 15px;
+  margin-top: 20px;
+  z-index: 1;
+}

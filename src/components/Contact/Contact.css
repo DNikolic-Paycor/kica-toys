@@ -1,0 +1,46 @@
+#co-head {
+  background-color: LightSeaGreen;
+  color: white;
+  padding: 10px;
+  border-radius: 6px;
+  margin-right: 30px;
+  margin-top: 80px;
+}
+
+form {
+  text-align: center;
+  margin: 20px auto;
+}
+
+input,
+textarea {
+  border: 2px solid DarkOrange;
+  outline: 0;
+  padding: 1em;
+  border-radius: 5px;
+  display: block;
+  margin-top: 1em;
+  width: 100%;
+
+}
+
+input:invalid {
+  box-shadow: none;
+}
+
+textarea {
+  max-height: 100px;
+}
+
+textarea:invalid {
+  box-shadow: none;
+}
+
+
+#submit {
+  font-size: 130%;
+  margin-top: 10px;
+  color: red;
+  background: white;
+  cursor: pointer;
+}

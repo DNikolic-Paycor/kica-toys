@@ -1,0 +1,13 @@
+.social {
+  background-color: tomato;
+  padding: 10px;
+  align-content: center;
+  text-align: center;
+  color: white;
+}
+
+.social-style {
+  text-decoration: "none";
+  align-content: center;
+  font-size: 1.2em;
+}

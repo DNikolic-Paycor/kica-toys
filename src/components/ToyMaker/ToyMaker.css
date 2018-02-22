@@ -1,0 +1,29 @@
+.tm-head {
+  border-radius: 5px;
+  background-color: DodgerBlue;
+  margin-top: 30px;
+  padding: 10px;
+  text-align: center;
+  z-index: 1;
+}
+
+.tm-text {
+  background-color: YellowGreen;
+  margin-left: -25px;
+  margin-bottom: 40px;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
+  z-index: 1;
+  color: white;
+}
+
+.me-img {
+  border-radius: 4px;
+  margin-top: -40px;
+  margin-bottom: 20px;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  z-index: -1;
+}

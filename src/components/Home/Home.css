@@ -1,0 +1,44 @@
+.home1 {
+  background-image: url("../../assets/img2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 550px;
+  border-bottom: 4px dashed orange;
+}
+
+.home1-text {
+  color: DodgerBlue;
+  background-color: rgba(173, 189, 214, 0.6);
+  text-align: center;
+  border-radius: 6px;
+  margin: 20px;
+  height: 200px;
+}
+
+.home-text2 {
+  -webkit-column-span: all;
+  /* Chrome, Safari, Opera */
+  column-span: all;
+  border-bottom: 4px dashed mediumSeaGreen;
+  height: auto;
+  padding: 10px;
+}
+
+.newspaper {
+  -webkit-column-count: 3;
+  /* Chrome, Safari, Opera */
+  -moz-column-count: 3;
+  /* Firefox */
+  column-count: 3;
+  -webkit-column-gap: 30px;
+  /* Chrome, Safari, Opera */
+  -moz-column-gap: 30px;
+  /* Firefox */
+  column-gap: 30px;
+  -webkit-column-rule: 2px solid lightblue;
+  /* Chrome, Safari, Opera */
+  -moz-column-rule: 2px solid DodgerBlue;
+  /* Firefox */
+  column-rule: 1px solid LightSeaGreen;
+}

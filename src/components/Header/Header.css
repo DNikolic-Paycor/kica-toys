@@ -1,0 +1,21 @@
+.logo {
+  margin-top: -60px;
+  width: 300px;
+  height: 200px;
+}
+
+.border-red {
+  border-bottom: 4px dashed tomato;
+  /*  padding-bottom: 5px;*/
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
